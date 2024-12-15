@@ -1,0 +1,1 @@
+This program does not try to destroy your computer, it will simply create a very strong load that can heat up your computer and it can break, you will not be able to enter the task manager because there will be a strong load and it will not be able to open
